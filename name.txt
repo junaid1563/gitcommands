@@ -5,3 +5,8 @@ to add file to track - git add <filename>
 to add all files to track - git add .[dot]
 to print all data of txt file - cat <filename>
 to see all changes history - git log
+to go back to last commit - git stash
+to go back to last stash/change made but not commited - git stash pop
+to connect to github repositiry - git remote add origin <link>
+to create another branch - git branch <name>
+to change branch - git checkout <name>
