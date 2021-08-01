@@ -1,0 +1,7 @@
+to open a text file - start notepad <filename>
+to start tracking - git init
+to checking status - git status
+to add file to track - git add <filename>
+to add all files to track - git add .[dot]
+to print all data of txt file - cat <filename>
+to see all changes history - git log
